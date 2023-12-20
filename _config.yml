@@ -4,4 +4,4 @@ logo: /assets/img/HerrEE.png
 content:<meta name="google-site-verification" content="ZZOEcA0ewLEfkH9g1UkLq-2IcGL_qnPdUULgMl7TlTo" />
 google-site-verification: "ZZOEcA0ewLEfkH9g1UkLq-2IcGL_qnPdUULgMl7TlTo"
 show_downloads: true
-theme: jekyll-theme-minimal
+theme: minima
