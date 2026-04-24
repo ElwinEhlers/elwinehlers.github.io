@@ -16,16 +16,16 @@ Linux (Ubuntu, Debian), Windows Server (MCSA 2012), Windows 11, Proxmox VE, Hype
 Docker, Docker Compose, Portainer
 
 **Networking**
-Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Hairpin NAT, Fritz!Box, Netzwerksicherheit
+Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Netzwerksicherheit
 
 **Security & Monitoring**
-Wazuh (SIEM), Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
+Wazuh, Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
 
 **Storage**
 TrueNAS, ZFS
 
 **Applications & Tools**
-Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, Git, GitHub, VS Code, Claude Code
+Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, GitHub, Claude Code
 
 ---
 
