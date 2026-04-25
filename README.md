@@ -34,7 +34,7 @@ Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, GitHub, Claude Code
 ### [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml)
 Ready-to-use `docker-compose.yml` files for self-hosted home lab services.
 Includes a setup guide for Docker and Portainer on Debian.
-Covers services like Stirling-PDF, Wazuh, Nginx Proxy Manager, and more.
+Covers services like Stirling-PDF, Nginx Proxy Manager, and more.
 
 ### [OpenClaw](https://github.com/ElwinEhlers/openclaw)
 A self-hosted AI gateway that routes requests to local Ollama models and external API providers (OpenRouter, Anthropic).
