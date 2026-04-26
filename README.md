@@ -36,9 +36,10 @@ Ready-to-use `docker-compose.yml` files for self-hosted home lab services.
 Includes a setup guide for Docker and Portainer on Debian.
 Covers services like Stirling-PDF, Nginx Proxy Manager, and more.
 
-### [OpenClaw](https://github.com/ElwinEhlers/openclaw)
-A self-hosted AI gateway that routes requests to local Ollama models and external API providers (OpenRouter, Anthropic).
-Built to centralize model access, manage API keys, and keep AI tooling under local control.
+### [kbase](https://github.com/ElwinEhlers/kbase)
+A self-hosted, browser-based knowledge base for local HTML and PDF files.
+Runs as a Docker container in the home network — drag & drop upload, category navigation, tab-based document view, real-time search.
+Built with nginx, Flask, and Material Design 3. No cloud, no external dependencies.
 
 ### [pi](https://github.com/ElwinEhlers/pi)
 Step-by-step setup guide for the [Pi Coding Agent](https://pi.dev/) on Windows 11 with a local Ollama model.
