@@ -36,8 +36,8 @@ Ready-to-use `docker-compose.yml` files for self-hosted home lab services.
 Includes a setup guide for Docker and Portainer on Debian.
 Covers services like Stirling-PDF, Nginx Proxy Manager, and more.
 
-### [kbase](https://github.com/ElwinEhlers/kbase)
-A self-hosted, browser-based knowledge base for local HTML and PDF files.
+### [dokubase](https://github.com/ElwinEhlers/dokubase)
+A self-hosted, browser-based knowledge dokubase for local HTML and PDF files.
 Runs as a Docker container in the home network — drag & drop upload, category navigation, tab-based document view, real-time search.
 Built with nginx, Flask, and Material Design 3. No cloud, no external dependencies.
 
