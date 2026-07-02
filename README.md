@@ -1,6 +1,7 @@
 ---
 title: Elwin Ehlers – Linux Sysadmin & Homelab Engineer
 description: Linux system administrator specializing in self-hosted infrastructure, Proxmox virtualization, Docker containerization, and network security.
+sitemap: false
 ---
 ## About
 
