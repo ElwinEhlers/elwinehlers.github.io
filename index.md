@@ -21,10 +21,10 @@ Linux (Ubuntu, Debian), Windows Server (MCSA 2012), Windows 11, Proxmox VE, Hype
 Docker, Docker Compose, Portainer
 
 **Networking**
-Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Netzwerksicherheit
+Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Network Security
 
 **Security & Monitoring**
-Wazuh, Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
+Wazuh, Backup Strategies, Data Privacy, Log-Monitoring, System Hardening
 
 **Storage**
 TrueNAS, ZFS
