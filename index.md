@@ -51,7 +51,6 @@ Step-by-step setup guide for the [Pi Coding Agent](https://pi.dev/) on Windows 1
 Includes a self-built browser GUI (`pi-launcher`) to manage prompts, control Ollama, and switch models — single HTML file, no framework, no CDN, Python stdlib only for the backend.
 
 ---
-
 ## Contact
 
 [github.com/ElwinEhlers](https://github.com/ElwinEhlers)
