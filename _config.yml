@@ -1,6 +1,13 @@
-title: Elwin Ehlers
+title: Elwin Ehlers – Linux Sysadmin & Homelab Engineer
+description: Linux system administrator specializing in self-hosted infrastructure, Proxmox virtualization, Docker containerization, and network security.
 logo: "/assets/images/Elwin.jpg"
-description: Linux Sysadmin · Windows Admin (MCSA 2012) · Self-hosted Infrastructure
+image: "/assets/images/og-image.jpg"
 google-site-verification: "ZZOEcA0ewLEfkH9g1UkLq-2IcGL_qnPdUULgMl7TlTo"
 show_downloads: false
 theme: jekyll-theme-minimal
+lang: en
+url: "https://elwinehlers.github.io"
+author: Elwin Ehlers
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
