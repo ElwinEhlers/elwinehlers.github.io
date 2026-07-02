@@ -30,7 +30,7 @@ Wazuh, Backup Strategies, Data Privacy, Log-Monitoring, System Hardening
 TrueNAS, ZFS
 
 **Applications & Tools**
-Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, GitHub, Claude Code
+Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, PatchMon, Headscale, GitHub, Claude Code
 
 ---
 
