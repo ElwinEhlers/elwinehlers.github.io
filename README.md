@@ -1,5 +1,5 @@
 ---
-title: Elwin Ehlers – Linux Sysadmin & Homelab-Betreiber
+title: Elwin Ehlers – Linux Sysadmin und Homelab-Betreiber
 description: Linux Systemadministrator mit Fokus auf Self-Hosted Infrastruktur, Proxmox-Virtualisierung, Docker-Containerisierung und Netzwerksicherheit.
 sitemap: false
 ---
