@@ -1,56 +1,57 @@
 ---
-title: Linux Sysadmin & Homelab Engineer
-description: Linux system administrator specializing in self-hosted infrastructure, Proxmox virtualization, Docker containerization, and network security.
+title: Linux Sysadmin und Homelab-Betreiber
+description: Linux Systemadministrator mit Fokus auf Self-Hosted Infrastruktur, Proxmox-Virtualisierung, Docker-Containerisierung und Netzwerksicherheit.
 ---
 
-## About
+## Über mich
 
-Linux system administrator with a focus on self-hosted infrastructure, containerization, and network security.
-I run a Proxmox home lab with multiple VMs and Docker stacks, covering DNS filtering, reverse proxies, SIEM monitoring, NAS storage, and more.
-On the Windows side I hold an MCSA 2012 certification and have experience with Active Directory, Group Policy, and Windows Server administration.
-I value clean setups, good documentation, and understanding what's actually happening under the hood.
+Linux Systemadministrator mit Fokus auf Self-Hosted Infrastruktur, Containerisierung und Netzwerksicherheit.
+Ich betreibe ein Proxmox Homelab mit mehreren VMs und Docker-Stacks, das DNS-Filtering, Reverse Proxies, SIEM-Monitoring, NAS-Storage und mehr abdeckt.
+Auf der Windows-Seite bin ich MCSA-2012-zertifiziert und habe Erfahrung mit Active Directory, Group Policy und Windows-Server-Administration.
+Mir sind saubere Setups, gute Dokumentation und ein tiefes Verständnis der zugrunde liegenden Technik wichtig.
 
 ---
 
-## Skills
+## Fähigkeiten
 
-**Operating Systems**
+**Betriebssysteme**
 Linux (Ubuntu, Debian), Windows Server (MCSA 2012), Windows 11, Proxmox VE, Hyper-V
 
-**Containerization**
+**Containerisierung**
 Docker, Docker Compose, Portainer
 
-**Networking**
-Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Network Security
+**Netzwerk**
+Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Netzwerksicherheit
 
-**Security & Monitoring**
-Wazuh, Backup Strategies, Data Privacy, Log-Monitoring, System Hardening
+**Sicherheit & Monitoring**
+Wazuh, Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
 
 **Storage**
 TrueNAS, ZFS
 
-**Applications & Tools**
+**Anwendungen & Tools**
 Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, PatchMon, Headscale, GitHub, Claude Code
 
 ---
 
-## Projects
+## Projekte
 
 ### [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml)
-Ready-to-use `docker-compose.yml` files for self-hosted home lab services.
-Includes a setup guide for Docker and Portainer on Debian.
-Covers services like Stirling-PDF, Nginx Proxy Manager, and more.
+Fertige `docker-compose.yml`-Dateien für Self-Hosted Homelab-Services.
+Enthält eine Setup-Anleitung für Docker und Portainer auf Debian.
+Deckt Services wie Stirling-PDF, Nginx Proxy Manager und mehr ab.
 
 ### [dokubase](https://github.com/ElwinEhlers/dokubase)
-A self-hosted, browser-based knowledge dokubase for local HTML and PDF files.
-Runs as a Docker container in the home network — drag & drop upload, category navigation, tab-based document view, real-time search.
-Built with nginx, Flask, and Material Design 3. No cloud, no external dependencies.
+Eine Self-Hosted, browserbasierte Wissensdatenbank für lokale HTML- und PDF-Dateien.
+Läuft als Docker-Container im Heimnetzwerk — Drag & Drop Upload, Kategorie-Navigation, Tab-basierte Dokumentenansicht, Echtzeit-Suche.
+Gebaut mit nginx, Flask und Material Design 3. Keine Cloud, keine externen Abhängigkeiten.
 
 ### [pi](https://github.com/ElwinEhlers/pi)
-Step-by-step setup guide for the [Pi Coding Agent](https://pi.dev/) on Windows 11 with a local Ollama model.
-Includes a self-built browser GUI (`pi-launcher`) to manage prompts, control Ollama, and switch models — single HTML file, no framework, no CDN, Python stdlib only for the backend.
+Schritt-für-Schritt-Anleitung für den [Pi Coding Agent](https://pi.dev/) auf Windows 11 mit einem lokalen Ollama-Modell.
+Enthält eine selbst gebaute Browser-GUI (`pi-launcher`) zur Verwaltung von Prompts, Steuerung von Ollama und Modellwechsel — eine einzelne HTML-Datei, kein Framework, kein CDN, nur Python-Standardbibliothek im Backend.
 
 ---
-## Contact
+
+## Kontakt
 
 [github.com/ElwinEhlers](https://github.com/ElwinEhlers)
