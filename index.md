@@ -46,6 +46,11 @@ Eine Self-Hosted, browserbasierte Wissensdatenbank für lokale HTML- und PDF-Dat
 Läuft als Docker-Container im Heimnetzwerk — Drag & Drop Upload, Kategorie-Navigation, Tab-basierte Dokumentenansicht, Echtzeit-Suche.
 Gebaut mit nginx, Flask und Material Design 3. Keine Cloud, keine externen Abhängigkeiten.
 
+### [Tideup Tracker Nordsee](https://tideup.de)
+Live-Pegelstände und Gezeiten für zehn Stationen an der Nordsee, u. a. Bremerhaven, Cuxhaven, Wilhelmshaven, Helgoland und Sylt.
+Zeigt aktuellen Wasserstand, MThw/MTnw und eine 24-Stunden-Tidekurve, optimiert für Smartphones mit Hell-/Dunkelmodus.
+Daten ausschließlich aus der offiziellen PEGELONLINE-API der WSV. Statisches HTML/JavaScript im Material-3-Stil, betrieben mit nginx in Docker, ohne externe Fonts oder Tracker.
+
 ---
 
 ## Kontakt
