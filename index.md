@@ -18,13 +18,13 @@ Mir sind saubere Setups, gute Dokumentation und ein tiefes Verständnis der zugr
 Linux (Ubuntu, Debian), Windows Server (MCSA 2012), Windows 11, Proxmox VE, Hyper-V
 
 **Containerisierung**
-Docker, Docker Compose, Portainer
+Docker, Docker Compose, Portainer, Dockhand
 
 **Netzwerk**
 Active Directory, DNS, DHCP, TCP/IP, Pi-hole, Nginx Proxy Manager, Fritz!Box, Netzwerksicherheit
 
 **Sicherheit & Monitoring**
-Wazuh, Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
+Wazuh, Checkmk Raw, Backup-Strategien, Datenschutz, Log-Monitoring, System Hardening
 
 **Storage**
 TrueNAS, ZFS
@@ -39,7 +39,7 @@ Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, PatchMon, Headscale, GitHub, 
 ### [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml)
 Fertige `docker-compose.yml`-Dateien für Self-Hosted Services.
 Enthält eine Setup-Anleitung für Docker und Portainer auf Debian.
-Deckt Services wie Stirling-PDF, Nginx Proxy Manager und mehr ab.
+Deckt Services wie PDFCraft, Nginx Proxy Manager und mehr ab.
 
 ### [Tideup Tracker Nordsee](https://tideup.de)
 Live-Pegelstände und Gezeiten für zehn Stationen an der Nordsee, u. a. Bremerhaven, Cuxhaven, Wilhelmshaven, Helgoland und Sylt.
