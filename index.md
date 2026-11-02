@@ -41,11 +41,6 @@ Fertige `docker-compose.yml`-Dateien für Self-Hosted Services.
 Enthält eine Setup-Anleitung für Docker und Portainer auf Debian.
 Deckt Services wie Stirling-PDF, Nginx Proxy Manager und mehr ab.
 
-### [dokubase](https://github.com/ElwinEhlers/dokubase)
-Eine Self-Hosted, browserbasierte Wissensdatenbank für lokale HTML- und PDF-Dateien.
-Läuft als Docker-Container im Heimnetzwerk — Drag & Drop Upload, Kategorie-Navigation, Tab-basierte Dokumentenansicht, Echtzeit-Suche.
-Gebaut mit nginx, Flask und Material Design 3. Keine Cloud, keine externen Abhängigkeiten.
-
 ### [Tideup Tracker Nordsee](https://tideup.de)
 Live-Pegelstände und Gezeiten für zehn Stationen an der Nordsee, u. a. Bremerhaven, Cuxhaven, Wilhelmshaven, Helgoland und Sylt.
 Zeigt aktuellen Wasserstand, MThw/MTnw und eine 24-Stunden-Tidekurve, optimiert für Smartphones mit Hell-/Dunkelmodus.
