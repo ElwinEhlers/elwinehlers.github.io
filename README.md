@@ -1,12 +1,12 @@
 ---
-title: Elwin Ehlers – Linux Sysadmin und Homelab-Betreiber
-description: Linux Systemadministrator mit Fokus auf Self-Hosted Infrastruktur, Proxmox-Virtualisierung, Docker-Containerisierung und Netzwerksicherheit.
+title: Elwin Ehlers – Linux Sysadmin und Windows Administrator
+description: Linux Sysadmin und Windows Administrator mit Fokus auf Self-Hosted Infrastruktur, Proxmox-Virtualisierung, Docker-Containerisierung, Windows Server und Netzwerksicherheit.
 sitemap: false
 ---
 ## Über mich
 
 Linux Systemadministrator mit Fokus auf Self-Hosted Infrastruktur, Containerisierung und Netzwerksicherheit.
-Ich betreibe ein Proxmox Homelab mit mehreren VMs und Docker-Stacks, das DNS-Filtering, Reverse Proxies, SIEM-Monitoring, NAS-Storage und mehr abdeckt.
+Ich betreibe eine Proxmox-Umgebung mit mehreren VMs und Docker-Stacks, die DNS-Filtering, Reverse Proxies, NAS-Storage und mehr abdeckt.
 Auf der Windows-Seite bin ich MCSA-2012-zertifiziert und habe Erfahrung mit Active Directory, Group Policy und Windows-Server-Administration.
 Mir sind saubere Setups, gute Dokumentation und ein tiefes Verständnis der zugrunde liegenden Technik wichtig.
 
@@ -37,7 +37,7 @@ Paperless-ngx, RustDesk, Organizr, Remedy, Zammad, PatchMon, Headscale, GitHub, 
 ## Projekte
 
 ### [docker-Portainer-yml](https://github.com/ElwinEhlers/docker-Portainer-yml)
-Fertige `docker-compose.yml`-Dateien für Self-Hosted Homelab-Services.
+Fertige `docker-compose.yml`-Dateien für Self-Hosted Services.
 Enthält eine Setup-Anleitung für Docker und Portainer auf Debian.
 Deckt Services wie Stirling-PDF, Nginx Proxy Manager und mehr ab.
 
