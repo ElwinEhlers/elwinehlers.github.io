@@ -46,10 +46,6 @@ Eine Self-Hosted, browserbasierte Wissensdatenbank für lokale HTML- und PDF-Dat
 Läuft als Docker-Container im Heimnetzwerk — Drag & Drop Upload, Kategorie-Navigation, Tab-basierte Dokumentenansicht, Echtzeit-Suche.
 Gebaut mit nginx, Flask und Material Design 3. Keine Cloud, keine externen Abhängigkeiten.
 
-### [pi](https://github.com/ElwinEhlers/pi)
-Schritt-für-Schritt-Anleitung für den [Pi Coding Agent](https://pi.dev/) auf Windows 11 mit einem lokalen Ollama-Modell.
-Enthält eine selbst gebaute Browser-GUI (`pi-launcher`) zur Verwaltung von Prompts, Steuerung von Ollama und Modellwechsel — eine einzelne HTML-Datei, kein Framework, kein CDN, nur Python-Standardbibliothek im Backend.
-
 ---
 
 ## Kontakt
